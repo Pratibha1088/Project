@@ -103,3 +103,6 @@ This project was developed for academic and internship purposes and is intended 
 
 Thanks to the project mentors and data support team for their guidance throughout this internship project. This project was instrumental in gaining hands-on experience with real-world data analysis and business intelligence tools.
 
+## Dashboards
+<img width="1126" height="645" alt="Screenshot 2025-07-25 132431" src="https://github.com/user-attachments/assets/8eb3d1cd-526a-4653-b334-e405ebfd1820" />
+
